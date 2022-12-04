@@ -2,7 +2,7 @@
 
 #### By Chloe (Yen Chi) Le
 
-#### Pandas
+#### Find Null value, drop duplicates and join dataframes using Pandas
 
 ## Technologies Used
 
@@ -13,7 +13,7 @@
 
 ## Description
 
-
+Contain numbers of methods and functions to explore a dataset
 
 ## Setup/Installation Requirements
 
